@@ -5,7 +5,7 @@ var quotes = [
     {author: "Abraham Lincoln", quote: `"In the end, it's not the years in your life that count. It's the life in your years."`},
     {author: "Nelson Mandela", quote: `"The greatest glory in living lies not in never falling, but in rising every time we fall."`},
     {author: "Mae West", quote: `"You only live once, but if you do it right, once is enough."`},
-    {author: "Mahatma Gandhi", quote: `"Be the change that you wish to see in the world"`},
+    {author: "Mahatma Gandhi", quote: `"Be the change that you wish to see in the world."`},
     {author: "Robert Frost", quote: `"In three words I can sum up everything I've learned about life: it goes on."`},
     {author: "Oprah Winfrey", quote: `"If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough."`},
     {author: "Elbert Hubbard", quote: `"A friend is someone who knows all about you and still loves you."`},
